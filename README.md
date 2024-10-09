@@ -1,4 +1,4 @@
-An Employee Management System built using Spring Boot technologies, Thymeleaf views, JPA, MySQL Database, and more. The project features Spring Model, View, and Controller (MVC) architecture and Service and Repository layers.
+An Employee Management System built using Spring Boot technologies, React.js, JPA, MySQL Database, and more. The project features Spring Model, View, and Controller (MVC) architecture and Service and Repository layers.
 
 This project is built for the intention of keeping track of employees within a company. The manager is able to add, delete, and update employees and input employee data based on their name, position, and manager. This application can be modified to include more information.  The system uses a MySQL Database to store the employee data.
 
